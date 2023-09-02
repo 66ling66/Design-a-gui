@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>确认.png</file>
+    <file>cluster.png</file>
+    <file>github.png</file>
+    <file>关闭.png</file>
+    <file>退出.png</file>
+    <file>注册.png</file>
+    <file>最小化.png</file>
+    <file>home.png</file>
+    <file>按钮.png</file>
+    <file>登录.png</file>
+    <file>注册.png</file>
+  </qresource>
+</RCC>

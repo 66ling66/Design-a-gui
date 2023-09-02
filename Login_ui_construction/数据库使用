@@ -1,0 +1,10 @@
+'''在pgadmin中建表 插入 查看'''
+#1）建表
+create table 表名称(
+    accounts varchar(10);
+    passwords varchars(20)
+)
+#2)插入
+insert into 表名称 values('插入内容','插入内容');
+#3)查看
+select * from users;
